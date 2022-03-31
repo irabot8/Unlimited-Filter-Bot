@@ -10,6 +10,8 @@ Myde by Akshay Chand 🕵️
     HELP_MSG = """
 <i>Add me as admin in your group and start filtering :)</i>
 
+Filter is the feature were users can set automated replies for a particular keyword and the bot will respond whenever a keyword is found the message
+
 
 ❕❗<b>Basic Commands</b>❗❕
 
