@@ -30,7 +30,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("❗❕Help❕❗", callback_data="help_data")
+                    InlineKeyboardButton("❕Help❕", callback_data="help_data")
                 ]
             ]
         )
@@ -47,12 +47,12 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🔰Creator🔰", url="https://t.me/+AmZd1QP73TgyMzQ1"),
+                    InlineKeyboardButton("🔰FilterXBot🔰", url="http://t.me/BetterFilterXBot"),
                     InlineKeyboardButton("🔰About Me🔰", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("🔰Movie Update Channel🔰", url="https://t.me/+1qdEeHOTLdQ1M2Vl"),
-                    InlineKeyboardButton("🔰Movies request Group🔰", url="https://t.me/+CG7AQS6IfUNhYTNl")
+                    InlineKeyboardButton("🔰Movie Channel🔰", url="https://t.me/+1qdEeHOTLdQ1M2Vl"),
+                    InlineKeyboardButton("🔰Movies Group🔰", url="https://t.me/+CG7AQS6IfUNhYTNl")
                 ]
             ]
         )
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "Second bot ", url="http://t.me/QueenIRAbot")
+                        "Second bot ", url="http://t.me/BetterFilterXBot")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
