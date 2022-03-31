@@ -7,10 +7,6 @@ I'm unlimited filter bot
 Myde by Akshay Chand 🕵️
 
 
-See <i>/help</i> for commands and more details.</b>
-"""
-
-
     HELP_MSG = """
 <i>Add me as admin in your group and start filtering :)</i>
 
