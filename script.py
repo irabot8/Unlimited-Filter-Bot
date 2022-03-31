@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
- I'M Nicky 🙋
+ I'M Filter bot 🙋
 I'm unlimited filter bot
 Myde by Akshay Chand 🕵️
 
@@ -52,7 +52,7 @@ Filter is the feature were users can set automated replies for a particular keyw
 """
 
 
-    ABOUT_MSG = """🔰<b>My Name :My Name is Nicky Myde by Akshay Chand </b>
+    ABOUT_MSG = """🔰<b>My Name :My Name is Filter Myde by Akshay Chand </b>
 
 🔰<b>Creater :</b> @Akshaymh17    
 
